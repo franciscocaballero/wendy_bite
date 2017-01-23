@@ -1,0 +1,44 @@
+html {
+  border: 5px solid #808080;
+  margin: 50px 250px 50px 250px;
+  text-align: center;
+}
+body {
+  background-color:  #5D5A59;
+  padding: 5% 10% 5% 10%;
+}
+p{
+  color: #FFFFFF;
+  font-size: 25px;
+  text-align: left;
+}
+h1 {
+  color: #FFFFFF;
+  font-size: 35px;
+  font-family: Brush Script Mt,cursive;
+}
+h2 {
+  color: #FFFFFF;
+  text-align: left;
+  border-top: 1px solid white;
+  padding-top: 15px;
+  font-size: 35px;
+}
+img {
+  border: 1px solid white;
+  float: right;
+  padding: 5px 5px 5px 5px;
+}
+footer {
+  border-top: 1px solid white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Helvetica;
+}
+a {
+  color: #08FDBF;
+}
+span{
+  padding-right: 10px;
+  font-size: 25px;
+}
